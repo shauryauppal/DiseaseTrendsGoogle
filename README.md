@@ -1,7 +1,7 @@
 # DiseaseTrendsGoogle
 Disease Trends of anywhere in the World
 
-# How to used?
+# How to use?
 ## Location = 'IN-DL'
 + If you want to find trends for any other country or city just change the Location in Main()
 
